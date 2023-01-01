@@ -1,7 +1,7 @@
 # C++ csv reader
 Simple library to load numeric data to C++ vectors from csv files.
 
-The code is in `csv_reader.h`
+The code is in `csv_reader.h` - that's the only file to be included when we want to read csvs.
 
 The library loads csv as either
 - vector: `vector<int>, vector<double>`,
